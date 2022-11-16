@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="row">
+        <div id="" class="col-md-10 offset-md-1" style="background-color:rgba(179, 177, 177, 0.963)">
+            <dv class="row">
+                <div class="col-md-12 text-center">
+                    <h1>Seccion Productos</h1>
+                </div>
+            </dv>
+
+            <div  id="element" class="row" style="display: none;">
+                <div id="divFormulario" class="col-md-10 offset-md-1 " style="background-color: rgba(106, 119, 98, 0.963);">
+                    <form class="mt-4 mb-5" id="ProductosForm" method="post" action="/api/Productos">
+                    <br>
+                        <div class="form-group">
+                            <label for="title"><strong>Title</strong></label>
+                            <input type="text" class="form-control" id="name" placeholder="Titlee" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="price"><strong>Price</strong></label>
+                            <input type="number" class="form-control" id="price" name="price" placeholder="Price" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="price"><strong>Thumbnail</strong></label>
+                            <input type="text" class="form-control" id="thumbnail" name="thumbnail" placeholder="thumbnail" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="price"><strong>Categoria</strong></label>
+                            <input type="text" class="form-control" id="category" name="category" placeholder="thumbnail" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="price"><strong>Descripción</strong></label>
+                            <input type="text" class="form-control" id="description" name="description" placeholder="thumbnail" required>
+                        </div>
+                                
+                        <button type="submit" class="btn btn-primary mb-4 mr-3">Enviar</button>
+                        <button type="submit" class="btn btn-warning mb-4 btnCancel" onclick="CancelProduct()">Cancelar</button>
+                        
+                    </form>
+                                      
+                </div>
+            </div>
+            
+
+            <div class="row">
+                <div id="divFormulario" class="col-md-10 offset-md-1" style="background-color:rgba(152, 172, 141, 0.963)">
+                    <div class="row">
+                        <div class="col-md-12 mt-3 ml-3 d-flex">
+                            <div class="col-md-9">
+                                <h2>Lista de Productos</h2>
+                            </div>
+                            <div id="secbtnAdd" class="col-md-2 text-right">
+                                <button type="button" class="btn btn-info " id="btnAdd" onclick="AddProduct()">Agregar Producto</button>
+                            </div>
+                            <hr>
+                        </div>
+                    </div>
+                    <div class="mt-3 row">
+                        <div class="col-md-10 offset-md-1">
+                            <table id="gridProductosList" class="table table-dark" style="width: 100%;">
+                                <thead class="thead-dark">
+                                    <th scope="col" style="width: 25%;">Titulo</th>
+                                    <th scope="col" style="width: 20%;">Precio</th>
+                                    <th scope="col" style="width: 20%;" class="text-center">Imagen</th>
+                                    <th scope="col" style="width: 35%;" class="text-center">Accion</th>
+                                </thead>
+                                <tbody>
+                                    {{#each ProductosDB}}
+                                        <tr>
+                                            <td class="align-middle">{{this.name}}</td>
+                                            <td class="align-middle">{{this.price}}</td>
+                                            <td class="align-middle text-center"><img src="{{this.thumbnail}}" width="20%" alt="MDN"></td>
+                                            <td class="align-middle text-center">
+                                                <button type="button" title="Agregar a Carrito" class="btn btn-success btnAddButton" data-productoid = '{{this.id}}'>
+                                                    <i class="fa fa-plus"></i>
+                                                    Agregar
+                                                </button>
+                                                <a href="./productos/{{this.id}}" title="Detalles Producto" ><button class="btn btn-info" ><i class="fa fa-info-circle"></i></button></a>
+                                                <button class="btn btn-danger btnDeleteProduct" title="Eliminar Producto"  data-productoid = "{{this.id}}"><i class="fa fa-times"></i></button>
+                                            </td>
+                                        </tr>
+                                    {{/each}}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-8 offset-md-2 text-center">
+                            <div class="col-md-12 d-flex">
+                                <div class="col-md-3 offset-3">
+                                    <button type="button" class="btn btn-primary" onclick="goSignup()">HOME</button>
+                                </div>
+                                <br>
+                                <div class="col-md-3">
+                                    <button type="button " class="btn btn-primary"  onclick="redireccionar('/api/carritos')">CARRITO</button>
+                                </div>
+                                <br><br><br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/normalizr@3.6.1/dist/normalizr.browser.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body>
+</html>
+
+<script>
+    $( document ).ready(function() {
+        Init()
+    });
+    function Init()
+    {
+        $(document).on("click",".btnAddButton",AgregarProductoCariito)
+        $(document).on("click",".btnDeleteProduct",DeleteProducto)
+        $(document).on("click","#btnProductoInfo",InfoProducto)
+    }
+
+    function AgregarProductoCariito(){
+      const Productoid = $(this).data("productoid")
+      console.log("valor de producto:",Productoid);
+      $.ajax({
+        method: "GET",
+        url: "/api/carritos/"+Productoid,
+        data: {},
+        success: function (result) {
+            console.log(result);
+        },
+        dataType: "json"
+        });
+    }
+
+    function DeleteProducto(){
+      const Productoid = $(this).data("productoid")
+      console.log("entre a funcion ✅✅✅");
+      console.log("se elimino producto con id:",Productoid);
+      $.ajax({
+        method: "delete",
+        url: "/api/productos/"+Productoid,
+        data: {},
+        success: function (result) {
+            console.log(result);
+        },
+        dataType: "json"
+        });
+    }
+
+    function InfoProducto(){
+      const Productoid = $(this).data("productoid")
+      console.log("entre a funcion para informacion de producto ✅✅✅");
+      console.log("id para prueba:",Productoid);
+      $.ajax({
+        method: "get",
+        url: "./api/productos/"+Productoid,
+        data: {},
+        success: function (result) {
+            console.log(result);
+        },
+        dataType: "json"
+        });
+    }
+
+    function redireccionar(pagina) {
+      location.href = pagina;
+    }
+
+    function goSignup() {
+      redireccionar('/login');
+    }
+
+    function AddProduct(){
+        document.getElementById("element").style.display = "block";
+        document.getElementById("btnAdd").style.display = "none";
+    }
+    function CancelProduct(){
+        document.getElementById("element").style.display = "none";
+        document.getElementById("btnAdd").style.display = "block ";
+        elem = document.getElementById("secbtnAdd");
+        elem.className += "text-right";
+    }
+    
+</script>

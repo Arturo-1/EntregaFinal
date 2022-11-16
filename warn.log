@@ -1,0 +1,995 @@
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'isAuthenticated')"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: ProductosDB is not defined"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: ProductosDB is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'user')"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: producto is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd21966064a729b72519e:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd21966064a729b72519e:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd2742f4e2638bb12b2eb:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd2742f4e2638bb12b2eb:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd2742f4e2638bb12b2eb:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd2742f4e2638bb12b2eb:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: Carrito is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"server.js error login"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632bd2922f4e2638bb12b2ed:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632bd7548737649195a3e171:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632c85328737649195a3e174:  ReferenceError: Products is not defined"}
+{"level":"error","message":"Ruta GET/632bd2922f4e2638bb12b2ed:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd21966064a729b72519e:  ReferenceError: Products is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632bd2742f4e2638bb12b2eb:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632bd2922f4e2638bb12b2ed:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632bd7548737649195a3e171:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632c85328737649195a3e174:  ReferenceError: Products is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632c85328737649195a3e174:  ReferenceError: ProductoId is not defined"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632c85328737649195a3e174:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: carritoService.updateCarritoID is not a function"}
+{"level":"error","message":"Ruta GET/632bd1e166064a729b72519c:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta undefinedundefined:  TypeError: Cannot destructure property 'ProductoId' of 'req.params' as it is undefined."}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta undefinedundefined:  TypeError: Cannot destructure property 'ProductoId' of 'req.params' as it is undefined."}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta undefinedundefined:  TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined."}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta undefinedundefined:  ReferenceError: usuarioid is not defined"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta undefinedundefined:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta undefinedundefined:  CastError: Cast to string failed for value \"{ username: 'asd@assd' }\" (type Object) at path \"username\" for model \"Users\""}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta undefinedundefined:  ReferenceError: ProductoExiste is not defined"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/login:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/login:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/login:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/login:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/login:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: carritoService is not defined"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: carritoService is not defined"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: carritoService is not defined"}
+{"level":"error","message":"server.js error login"}
+{"level":"error","message":"server.js error login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/carrito no existe"}
+{"level":"warn","message":"Ruta GET/api/carrito no existe"}
+{"level":"warn","message":"Ruta GET/api/carritos no existe"}
+{"level":"warn","message":"Ruta GET/api/carrito no existe"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading 'user')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of null (reading 'user')"}
+{"level":"warn","message":"Ruta GET/api/pruebacopia.png no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/profile no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"warn","message":"Ruta GET/login no existe"}
+{"level":"error","message":" Ruta POST/ error al registrar usuario"}
+{"level":"error","message":"Ruta GET/failsignup error en signup"}
+{"level":"error","message":" Ruta POST/ error al registrar usuario"}
+{"level":"error","message":"Ruta GET/failsignup error en signup"}
+{"level":"error","message":" Ruta POST/ error al registrar usuario"}
+{"level":"error","message":"Ruta GET/failsignup error en signup"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/api/Correo no existe"}
+{"level":"warn","message":"Ruta GET/api/correo no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/failsignup error en signup"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/img_568656%20(1).png no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/carrito no existe"}
+{"level":"warn","message":"Ruta GET/carrito:id no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/api/mensajes no existe"}
+{"level":"warn","message":"Ruta GET/mensajes no existe"}
+{"level":"warn","message":"Ruta GET/api/mensage no existe"}
+{"level":"warn","message":"Ruta GET/api/product no existe"}
+{"level":"warn","message":"Ruta GET/product no existe"}
+{"level":"warn","message":"Ruta GET/product no existe"}
+{"level":"warn","message":"Ruta GET/products no existe"}
+{"level":"warn","message":"Ruta GET/api/products no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"error","message":"Ruta GET/:  MongooseServerSelectionError: connect ETIMEDOUT 34.200.34.114:27017"}
+{"level":"error","message":"server.js error en conexión de base de datos connect ETIMEDOUT 34.200.34.114:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":30,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-mxrf31-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: connect ETIMEDOUT 34.200.34.114:27017\n    at NativeConnection.Connection.openUri (C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\connection.js:824:32)\n    at C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\index.js:413:10\n    at promiseOrCallback (C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:11:14)\n    at Mongoose._promiseOrCallback (C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\index.js:1266:10)\n    at Mongoose.connect (C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\index.js:412:20)\n    at conectarDB (file:///C:/Users/Arturo/Desktop/ProyectoFinal/src/controllersdb.js:5:14)\n    at file:///C:/Users/Arturo/Desktop/ProyectoFinal/src/server.js:98:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n    at async Promise.all (index 0)\n    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"error","message":"server.js error en conexión de base de datos connect ETIMEDOUT 34.200.34.114:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":30,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-mxrf31-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: connect ETIMEDOUT 34.200.34.114:27017\n    at NativeConnection.Connection.openUri (C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\connection.js:824:32)\n    at C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\index.js:413:10\n    at promiseOrCallback (C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:11:14)\n    at Mongoose._promiseOrCallback (C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\index.js:1266:10)\n    at Mongoose.connect (C:\\Users\\Arturo\\Desktop\\ProyectoFinal\\node_modules\\mongoose\\lib\\index.js:412:20)\n    at conectarDB (file:///C:/Users/Arturo/Desktop/ProyectoFinal/src/controllersdb.js:5:14)\n    at file:///C:/Users/Arturo/Desktop/ProyectoFinal/src/server.js:98:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n    at async Promise.all (index 0)\n    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"error","message":"Ruta GET/636ec48899a548e040f77147:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/producto/6331cd7c250220a3f0fe016a no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/ no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/ no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/mensajes no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/productoadd no existe"}
+{"level":"warn","message":"Ruta GET/l no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/productos no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/api/Productos no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/api/hjdhhdhdhhdhd no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/hhhh no existe"}
+{"level":"warn","message":"Ruta GET/api/kkkkk no existe"}
+{"level":"warn","message":"Ruta GET/api/uuu no existe"}
+{"level":"warn","message":"Ruta GET/api/kljjklkl%C3%B1 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo no existe"}
+{"level":"warn","message":"Ruta GET/api/1111 no existe"}
+{"level":"warn","message":"Ruta GET/api/oooo1 no existe"}
+{"level":"warn","message":"Ruta GET/api/999999 no existe"}
+{"level":"warn","message":"Ruta GET/api/33333 no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"error","message":"Ruta GET/6373b484e372b3651b99c812:   Producto ID no es tipo string"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6373b4ede372b3651b99c821:   Producto ID no es tipo string"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6373b4ede372b3651b99c821:   Producto ID no es tipo string"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6373b4ede372b3651b99c821:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6373b4ede372b3651b99c821' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6373b4ede372b3651b99c821:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6373b4ede372b3651b99c821' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6373b4ede372b3651b99c821:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"error","message":"Ruta GET/6373b4ede372b3651b99c821:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6373b4ede372b3651b99c821' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"error","message":"Ruta GET/6373b484e372b3651b99c812:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6373b484e372b3651b99c812' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6373b484e372b3651b99c812:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6373b484e372b3651b99c812' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6373b484e372b3651b99c812:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6373b484e372b3651b99c812' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6373b7bc56786ddf008e4a1b:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6373b7bc56786ddf008e4a1b' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6373b7bc56786ddf008e4a1b:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6373b7bc56786ddf008e4a1b' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"warn","message":"Ruta GET/api/jddjdjdkoeo no existe"}
+{"level":"warn","message":"Ruta GET/api/carro.jpg no existe"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6331cf73020f1ec8957221ed:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6331d094020f1ec8957221f1:  CastError: Cast to ObjectId failed for value \"{ _id: { ProductoId: '6331d094020f1ec8957221f1' } }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/productos/6331d094020f1ec8957221f1 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d094020f1ec8957221f1 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d094020f1ec8957221f1 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331cf73020f1ec8957221ed no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/api/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/productos.hbs no existe"}
+{"level":"warn","message":"Ruta GET/api/productos.hbs/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/productos.hbs no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/producto no existe"}
+{"level":"warn","message":"Ruta GET/api/producto/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/producto/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/producto/6331cd7c250220a3f0fe016a no existe"}
+{"level":"warn","message":"Ruta GET/api/producto/6331cf73020f1ec8957221ed no existe"}
+{"level":"warn","message":"Ruta GET/api/producto/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/producto/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"warn","message":"Ruta GET/api/productosdetail/6331cf73020f1ec8957221ed no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/productosdetail/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331cd7c250220a3f0fe016a no existe"}
+{"level":"warn","message":"Ruta GET/api/productosdetail/6331cd7c250220a3f0fe016a no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d094020f1ec8957221f1 no existe"}
+{"level":"warn","message":"Ruta GET/api/productosdetail/6331d094020f1ec8957221f1 no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331cf73020f1ec8957221ed no existe"}
+{"level":"warn","message":"Ruta GET/api/productosdetail/6331cf73020f1ec8957221ed no existe"}
+{"level":"warn","message":"Ruta GET/productos/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/api/productosdetail/6331d060020f1ec8957221f0 no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
