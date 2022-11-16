@@ -26,7 +26,6 @@ const createProduct = async(req, res, next)=>{
         location.reload("productosList", {ProductosDB:response} );
     
         // res.json(new WSresponse(response, "success, producto creado!!"))
-
     }
     catch(err){
         res.status(400).json( new WSresponse(null, err, true, 400));
@@ -42,7 +41,6 @@ const getProductobyID = async(req, res)=>{
         console.log("validate response:", response);
         res.render("productos", {ProductosDB:response} );
 
-
         // res.json(new WSresponse(response, "Success!!"))
     }
     catch(err){
@@ -50,7 +48,6 @@ const getProductobyID = async(req, res)=>{
         // logger.error(`Ruta ${method}${url}:  ${err}`);
     }
 }
-
 const deleteProduct = async (req, res) => {
   console.log("data valid 111:", req.params.ProductoId)
     try {
