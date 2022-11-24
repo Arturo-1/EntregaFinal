@@ -1,9 +1,12 @@
 import ProductsModel from '../models/modelsProductos.js'
 
-const getAllProductos = async (req, res) => {
-    const ProductosDB = []
+const getAllProductos = async (req,res) => {
+    let ProductosDB = []
+    let dataProduct = []
     //console.log(req.user)
-    const productos = await ProductsModel.find().lean()
+    const productos = await ProductsModel.find().lean();
+    const Categorias = await ProductsModel.distinct("category");
+    console.log("opciones categorias",Categorias)
     for (let i = 0; i < productos.length; i++)
     {
       ProductosDB.push({
@@ -15,10 +18,14 @@ const getAllProductos = async (req, res) => {
         description: productos[i].description
       })
     }
-    return ProductosDB
+    dataProduct=[{
+      "Productos": ProductosDB,
+      "Categorias": Categorias
+    }]
+    
+    return dataProduct
     //res.render("productosList", {ProductosDB:productosArray} );
   }
-
 
   const createProduct = async (productToCreate) => {
     const  createProduct = await ProductsModel.create(productToCreate);
