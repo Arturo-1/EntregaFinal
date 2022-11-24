@@ -52,7 +52,7 @@
             <br>
             <div class="row">
                 <div class="col-md-8 offset-md-2 text-center">
-                    <button type="button" class="btn btn-primary" id="btnPedido"><i class="fa fa-envelope"></i> Solicitar Pedido</button>
+                    <button type="button" class="btn btn-primary" id="btnEnviarOrden"><i class="fa fa-envelope"></i> Solicitar Pedido</button>
                 </div>
                 <br><br><br>
             </div>
@@ -76,24 +76,36 @@
     });
     function Init()
     {
-        $(document).on("click","#btnPedido",SolicitarPedido)
+       /* $(document).on("click","#btnEnviarOrden",EnviarPedido)*/
     }
-    function SolicitarPedido(){
+    function EnviarPedido(){
     let numeroproductos = gridProductosCarrito.rows.length
-      if(numeroproductos <= 1)
-      {
-        alert("Debe tener por lo menos un producto en carrito")
+    if(numeroproductos <= 1)
+    {
+        alert("El carrito no puede estar vacio!!")
         return
-      }
-      $.ajax({
+    }
+
+    $.ajax({
+
         method: "post",
-        url: "/api/correo",
-        data: {},
+        url: "/orden",
+        data: JSON.stringify({
+            "idusuario":'633b14e73294afc35ce45daf'
+        }),
+            contentType: "application/json; charset=utf-8",
+            dataType: 'json',
+            success: function (result) {
+                window.onload = timedRefresh(2000);
+            },
+        });
+        /*data: {},
         success: function (result) {
             console.log(result);
         },
         dataType: "json"
         });
+        */
     }
 
     function redireccionar(pagina) {

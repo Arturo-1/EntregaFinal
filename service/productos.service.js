@@ -5,7 +5,6 @@ const getAllProductos = async() =>{
     return data
 }
 
-
 const createProduct = async ({name, price, thumbnail, category, description}) => {
     // if(typeof name !== "string") throw "el nombre no es tipo string";
     // // if(typeof price !== "number") throw "el precio no es tipo number";
@@ -54,8 +53,6 @@ const updateProduct = async ({ name, price, thumbnail, category, description}, P
   
     return updatedProduct;
   };
-
-
 
 export default {
     getAllProductos,

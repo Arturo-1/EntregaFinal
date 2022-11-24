@@ -171,3 +171,98 @@
 {"level":"error","message":"Ruta GET/faillogin error en login"}
 {"level":"error","message":"Ruta GET/faillogin error en login"}
 {"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/63751454186a013431b81c26:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/6331cd7c250220a3f0fe016a:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  CastError: Cast to ObjectId failed for value \"{ ProductoId: '637516903e6653b36a4e4608' }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/637515e2186a013431b81c2d:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/637515e2186a013431b81c2d:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  CastError: Cast to ObjectId failed for value \"{ ProductoId: '637516903e6653b36a4e4608' }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  CastError: Cast to ObjectId failed for value \"{ ProductoId: '6376a7ed5038f83da2b29a50' }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  CastError: Cast to ObjectId failed for value \"{ ProductoId: '637516903e6653b36a4e4608' }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/637515e2186a013431b81c2d:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637515e2186a013431b81c2d:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/637516903e6653b36a4e4608:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  ReferenceError: Cannot access 'arrayProductos' before initialization"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  ReferenceError: Cannot access 'arrayProductos' before initialization"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/6376a7ed5038f83da2b29a50:  CastError: Cast to ObjectId failed for value \"{ ProductoId: '6376a7ed5038f83da2b29a50' }\" (type Object) at path \"_id\" for model \"product\""}
+{"level":"error","message":"Ruta GET/:  ReferenceError: Categorias is not defined"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: Categorias is not defined"}
+{"level":"error","message":"Ruta GET/:  TypeError: Assignment to constant variable."}
+{"level":"error","message":"Ruta GET/:  TypeError: Assignment to constant variable."}
+{"level":"error","message":"Ruta GET/:  TypeError: Assignment to constant variable."}
+{"level":"error","message":"Ruta GET/:  TypeError: Assignment to constant variable."}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'dataProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'dataProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'data')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: Product is not defined"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'category')"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'Productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'Productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'Categorias')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading '1')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'Productos')"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: ProductosPrueba is not defined"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: ProductosPrueba is not defined"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'ProductosDB')"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: data is not defined"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: data is not defined"}
+{"level":"error","message":"Ruta GET/:  ReferenceError: data is not defined"}
+{"level":"error","message":"Ruta GET/637fe399e8d1339f7c36447b:  TypeError: Cannot read properties of undefined (reading 'toString')"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}

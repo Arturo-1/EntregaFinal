@@ -2,14 +2,14 @@ import logger from '../src/winstonconfig.js';
 import productosService from '../service/productos.service.js'
 import { WSresponse } from '../libs/WSresponse.js'
 
-
 const getAllProductos = async(req, res)=>{
     const {url , method} = req
-    try{
+    try{  
         const response = await productosService.getAllProductos()
 
-        res.render("productosList", {ProductosDB:response} );
-
+        console.log("data controller PRODUCTOS:",response[0].Productos)
+        console.log("data controller CATEGORIAS:",response[0].Categorias)
+        res.render("productosList", {ProductosDB:response[0].Productos, Categorias:response[0].Categorias} );
     }
     catch(err){
         logger.error(`Ruta ${method}${url}:  ${err}`);
@@ -23,9 +23,8 @@ const createProduct = async(req, res, next)=>{
         const response = await productosService.createProduct(req.body);
 
         console.log("valuidacion response:", response );
-        location.reload("productosList", {ProductosDB:response} );
-    
-        // res.json(new WSresponse(response, "success, producto creado!!"))
+        // location.reload("productosList", {ProductosDB:response} );
+        res.json(new WSresponse(response, "success, producto creado!!"))
     }
     catch(err){
         res.status(400).json( new WSresponse(null, err, true, 400));
@@ -82,3 +81,4 @@ export default {
     deleteProduct,
     updateProduct
 }
+

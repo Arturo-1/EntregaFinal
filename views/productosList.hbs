@@ -36,18 +36,17 @@
                         </div>
                         <div class="form-group">
                             <label for="price"><strong>Categoria</strong></label>
-                            <input type="text" class="form-control" id="category" name="category" placeholder="thumbnail" required>
+                            <input type="text" class="form-control" id="category" name="category" placeholder="Ingrese categoria del producto" required>
                         </div>
                         <div class="form-group">
                             <label for="price"><strong>Descripción</strong></label>
-                            <input type="text" class="form-control" id="description" name="description" placeholder="thumbnail" required>
+                            <input type="text" class="form-control" id="description" name="description" placeholder="Descripcion para el producto" required>
                         </div>
                                 
                         <button type="submit" class="btn btn-primary mb-4 mr-3">Enviar</button>
                         <button type="submit" class="btn btn-warning mb-4 btnCancel" onclick="CancelProduct()">Cancelar</button>
                         
-                    </form>
-                                      
+                    </form>  
                 </div>
             </div>
             
@@ -56,8 +55,19 @@
                 <div id="divFormulario" class="col-md-10 offset-md-1" style="background-color:rgba(152, 172, 141, 0.963)">
                     <div class="row">
                         <div class="col-md-12 mt-3 ml-3 d-flex">
-                            <div class="col-md-9">
+                            <div class="col-md-5">
                                 <h2>Lista de Productos</h2>
+                            </div>
+                            <div id="secbtnAdd" class="col-md-4">                                
+                                <div class="form-group d-flex">
+                                    <h4 for="selectCategory" class="m-1"> <strong> Categoria: </strong></h4>
+                                    <select class="form-control" id="selectCategory">
+                                        <option value="0">Seleccione Categoria</option>
+                                        {{#each Categorias}}
+                                            <option value="{{this}}">{{this}}</option>
+                                        {{/each}}
+                                    </select>
+                                </div>                            
                             </div>
                             <div id="secbtnAdd" class="col-md-2 text-right">
                                 <button type="button" class="btn btn-info " id="btnAdd" onclick="AddProduct()">Agregar Producto</button>
@@ -130,12 +140,13 @@
     });
     function Init()
     {
-        $(document).on("click",".btnAddButton",AgregarProductoCariito)
+        $(document).on("click",".btnAddButton",AgregarProductoCarrito)
         $(document).on("click",".btnDeleteProduct",DeleteProducto)
         $(document).on("click","#btnProductoInfo",InfoProducto)
+         $(document).on("change","#selectCategory",filterCategory)
     }
 
-    function AgregarProductoCariito(){
+    function AgregarProductoCarrito(){
       const Productoid = $(this).data("productoid")
       console.log("valor de producto:",Productoid);
       $.ajax({
@@ -197,5 +208,20 @@
         elem = document.getElementById("secbtnAdd");
         elem.className += "text-right";
     }
+
+    function filterCategory(){
+    let varRutas = ''
+        var x = window.location.pathname.split("/").length
+        console.log(x)
+        if (x > 2){
+             for (let i = 2; i < x; i++)
+             {
+                varRutas += '../'
+             }
+        }
+        let ruta = varRutas+"Product/categoria/"+$(this).val()
+    window.location.href = ruta
+}
+     
     
 </script>

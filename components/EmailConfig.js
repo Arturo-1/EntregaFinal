@@ -37,13 +37,11 @@ async function EnvioWhats(whatsOption) {
         console.log(error)
     }
 }
-
 // const option = {
 //     body:'Hola soy node.js',
 //     to: 'whatsapp:+528126595434',
 //     from: 'whatsapp:+14155238886',
 // }
-
 export default {
     EnvioCorreo,
     EnvioWhats
