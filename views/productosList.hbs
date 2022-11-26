@@ -60,9 +60,9 @@
                             </div>
                             <div id="secbtnAdd" class="col-md-4">                                
                                 <div class="form-group d-flex">
-                                    <h4 for="selectCategory" class="m-1"> <strong> Categoria: </strong></h4>
+                                    <h4 for="selectCategory" class="m-1 mr-3"> <strong> Categoria: </strong></h4>
                                     <select class="form-control" id="selectCategory">
-                                        <option value="0">Seleccione Categoria</option>
+                                        <option value="" hidden selected >Seleccione Categoria</option>
                                         {{#each Categorias}}
                                             <option value="{{this}}">{{this}}</option>
                                         {{/each}}
@@ -143,7 +143,7 @@
         $(document).on("click",".btnAddButton",AgregarProductoCarrito)
         $(document).on("click",".btnDeleteProduct",DeleteProducto)
         $(document).on("click","#btnProductoInfo",InfoProducto)
-         $(document).on("change","#selectCategory",filterCategory)
+        $(document).on("change","#selectCategory",filterCategory)
     }
 
     function AgregarProductoCarrito(){
@@ -212,16 +212,15 @@
     function filterCategory(){
     let varRutas = ''
         var x = window.location.pathname.split("/").length
-        console.log(x)
+        console.log("valor funcion filter categoria:", x)
         if (x > 2){
              for (let i = 2; i < x; i++)
              {
                 varRutas += '../'
              }
         }
-        let ruta = varRutas+"Product/categoria/"+$(this).val()
+        let ruta = varRutas+"api/productos/categoria/"+$(this).val()
     window.location.href = ruta
 }
-     
-    
+
 </script>

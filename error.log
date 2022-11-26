@@ -266,3 +266,4 @@
 {"level":"error","message":"Ruta GET/:  ReferenceError: data is not defined"}
 {"level":"error","message":"Ruta GET/637fe399e8d1339f7c36447b:  TypeError: Cannot read properties of undefined (reading 'toString')"}
 {"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
