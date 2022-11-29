@@ -102,7 +102,7 @@ const deleteProduct = async (req, res) => {
         {
           console.log("llegue a la funcion filter")
           // res.render("product", {ProductosDB:response[0].Productos, Categorias:response[0].Categorias,usuariolog: req.user._id.toString()} );
-          res.render("productos", {ProductosDB:response[0].Productos, Categorias:response[0].Categorias} );
+          res.render("productoscategory", {ProductosDB:response[0].Productos, Categorias:response[0].Categorias} );
         }
       }
       
