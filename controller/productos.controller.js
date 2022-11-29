@@ -6,9 +6,6 @@ const getAllProductos = async(req, res)=>{
     const {url , method} = req
     try{  
         const response = await productosService.getAllProductos()
-
-        console.log("data controller PRODUCTOS:",response[0].Productos)
-        console.log("data controller CATEGORIAS:",response[0].Categorias)
         res.render("productosList", {ProductosDB:response[0].Productos, Categorias:response[0].Categorias} );
     }
     catch(err){
@@ -22,7 +19,7 @@ const createProduct = async(req, res, next)=>{
         console.log("req", req)
         const response = await productosService.createProduct(req.body);
 
-        console.log("valuidacion response:", response );
+        console.log("validacion response create product:", response );
         // location.reload("productosList", {ProductosDB:response} );
         res.json(new WSresponse(response, "success, producto creado!!"))
     }
@@ -74,11 +71,58 @@ const deleteProduct = async (req, res) => {
     }
   };
 
+  const getProductByFilters = async (req, res) => {
+    try {
+      const {id,categoria} = req.params
+      let filters
+      if (typeof id !== 'undefined') {
+        filters = { _id: id };
+      }
+      else
+      {
+        filters = { category: categoria };
+        console.log("data filters:", filters)
+      }   
+      const response = await productosService.getProductByFilters(filters);
+      console.log("data response controller:", response);
+      
+  
+      if (response.length == 0)
+      {
+        res.json({error: "Este producto no existe"})
+      }
+      else{
+        if (typeof id !== 'undefined') {
+          //console.log("datos detalle",response[0])
+          // res.render("productDetails", {ProductosDB:response[0].Productos[0],usuariolog: req.user._id.toString()} );
+          res.render("productDetails", {ProductosDB:response[0].Productos[0]} );
+        }
+        else
+
+        {
+          console.log("llegue a la funcion filter")
+          // res.render("product", {ProductosDB:response[0].Productos, Categorias:response[0].Categorias,usuariolog: req.user._id.toString()} );
+          res.render("productoscategory", {ProductosDB:response[0].Productos, Categorias:response[0].Categorias} );
+        }
+      }
+      
+      //res.json(response);
+    } catch (err) {
+      if (err.statusCode) {
+        return res.status(statusCode).send(err);
+      }
+  
+      res.sendStatus(500);
+    }
+  };
+
+
 export default {
     getAllProductos,
     createProduct,
     getProductobyID,
     deleteProduct,
-    updateProduct
+    updateProduct,
+    getProductByFilters
 }
 

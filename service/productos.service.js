@@ -5,6 +5,12 @@ const getAllProductos = async() =>{
     return data
 }
 
+const getProductByFilters = async(filters) =>{
+  const data = await productosDao.getProductByFilters(filters)
+  console.log("valid info service filter:",data);
+  return data
+}
+
 const createProduct = async ({name, price, thumbnail, category, description}) => {
     // if(typeof name !== "string") throw "el nombre no es tipo string";
     // // if(typeof price !== "number") throw "el precio no es tipo number";
@@ -50,15 +56,15 @@ const updateProduct = async ({ name, price, thumbnail, category, description}, P
       { name, price, thumbnail, category, description},
       ProductId
     );
-  
     return updatedProduct;
-  };
+    
+};
 
 export default {
     getAllProductos,
     createProduct,
     getProductobyID,
     deleteProduct,
-    updateProduct
-
+    updateProduct,
+    getProductByFilters
 }
